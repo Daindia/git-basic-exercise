@@ -1,0 +1,199 @@
+    1  ls
+    2  cd ./Documents
+    3  ls
+    4  cd UMUZI/
+    5  ls
+    6  mkdir Person_repo
+    7  cd Person_repo/
+    8  git clone https://github.com/Umuzi-org/Aron-Moganedi-219-level-1-programming-katas-python.git
+    9  ls
+   10  cd Aron-Moganedi-219-level-1-programming-katas-python/
+   11  clear
+   12  ls
+   13  git checkout task/4
+   14  git merge feature-branch
+   15  git merge task/4
+   16  clear
+   17  git merge main
+   18  git config --global user.email "moganedilifa@gmail.com"
+   19  git config --global user.name "Aron"
+   20  clear
+   21  git merge main
+   22  git status
+   23  clear
+   24  git checkout main
+   25  git add task4.py
+   26  git push origin task/4
+   27  git status
+   28  clear
+   29  git status
+   30  git rm task4.py
+   31  git rm task/4
+   32  git branch -d task/4
+   33  git checkout main
+   34  git status
+   35  clear
+   36  git branch
+   37  git branch -d task/4
+   38  git branch
+   39  ls
+   40  cd .
+   41  ls
+   42  cd ..
+   43  ls
+   44  cd ..
+   45  ls
+   46  clear
+   47  ls
+   48  cd ./Umuzi
+   49  cd ./UMUZI
+   50  cd .\UMUZI
+   51  clear
+   52  cd /UMUZI
+   53  cd ../UMUZI
+   54  cd ./UMUZI
+   55  clear
+   56  cd UMUZI/
+   57  cd ./Documents
+   58  clear
+   59  ls
+   60  cd UMUZI/
+   61  clear
+   62  ls
+   63  cd /Documents
+   64  cd \Documents
+   65  clear
+   66  ls
+   67  cd home
+   68  man
+   69  man git
+   70  man ls
+   71  clear
+   72  man pwd
+   73  ls
+   74  cd Documents
+   75  clear
+   76  ls
+   77  cd UMUZI
+   78  clear
+   79  ls
+   80  mkdir git-basic-exercises
+   81  clear
+   82  ls
+   83  clear
+   84  cd git-basic-exercises/
+   85  ls -a
+   86  ls
+   87  clear
+   88  git init
+   89  ls -a
+   90  git status
+   91  clear
+   92  git branch
+   93  clear
+   94  touch README.md
+   95  ls -a
+   96  clear
+   97  git status
+   98  git log
+   99  git add
+  100  clear
+  101  git add *
+  102  git log
+  103  clear
+  104   git status
+  105  git restore
+  106  git restore *
+  107  clear
+  108  git status
+  109  git rm *
+  110  git rm --cached *
+  111  clear
+  112  git status
+  113  clear
+  114  git add *
+  115  git commit -m 'initial commit'
+  116  git log
+  117  clear
+  118  git status 
+  119  clear
+  120  nano README.md
+  121  cat README.md 
+  122  clear
+  123  git status
+  124  git add README.md 
+  125  clear
+  126  git status
+  127  git commit -m 'second commit'
+  128  git log
+  129  git status
+  130  clear
+  131  nano README.md 
+  132  cat README.md 
+  133  git status
+  134  clear
+  135  git add README.md 
+  136  git status
+  137  git commit -m 'third commit'
+  138  clear 
+  139  git log
+  140  git checkout commit c1db30ee03b4b503f916ef5cc8cb963c637062ed
+  141  git checkout c1db30ee03b4b503f916ef5cc8cb963c637062ed
+  142  clear
+  143  cat README.md 
+  144  git checkout main
+  145  git checkout main
+  146  git log
+  147  git checkout HEAD
+  148  clear
+  149  git log
+  150  git checkout heGITG ad
+  151  git checkout MAIN
+  152  git checkout main
+  153  cat r
+  154  clear
+  155  git README.md
+  156  clear
+  157  cat README.md 
+  158  git checkout main
+  159  git logGHHGOTOTOA[PLA[PAL AVWVATKPOAG FK;LASK;LASK;OERW[PTOWE[ TVQWE[PG[PAFAERWGVAVQWTFA3W4qqqqqqsssssss       ; clear; q; q; q; q; q; q; qq; q; q; q; clear
+  160  clear
+  161  git checkout origin
+  162  git checkout main
+  163  git branch
+  164  git checkout master
+  165  cat README.md 
+  166  clear
+  167  cd Documents/
+  168  clear
+  169   ls
+  170  cd UMUZI/
+  171  ls
+  172  cd git-basic-exercises/
+  173  clear
+  174  git branch
+  175  git branch milkshake-flavour
+  176  git branch
+  177  git checkout
+  178  git switch
+  179  git checkout milkshake-flavour 
+  180  clear
+  181  nano milkshake-flavour
+  182  nano milkshake-flavour
+  183  clear
+  184  git status
+  185  git add milkshake-flavour 
+  186  clear
+  187  git status
+  188  git commit -m "added initial flavours
+"
+  189  clear
+  190  git log
+  191  git checkout master
+  192  git log
+  193  clear
+  194  ls -a
+  195  git branch history
+  196  git checkout history 
+  197  git log
+  198  history > history.txt
